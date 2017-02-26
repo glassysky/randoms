@@ -1,6 +1,6 @@
 {
   "name": "kinds-of-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Providing kinds of API to get random data.",
   "main": "index.js",
   "scripts": {
