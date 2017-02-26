@@ -1,0 +1,19 @@
+{
+  "name": "randoms",
+  "version": "1.0.0",
+  "description": "Providing kinds of API to get random data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glassysky/randoms.git"
+  },
+  "author": "glassysky <cth873661157@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glassysky/randoms/issues"
+  },
+  "homepage": "https://github.com/glassysky/randoms#readme"
+}
