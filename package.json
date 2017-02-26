@@ -1,5 +1,5 @@
 {
-  "name": "randoms",
+  "name": "kinds-of-random",
   "version": "1.0.0",
   "description": "Providing kinds of API to get random data.",
   "main": "index.js",
